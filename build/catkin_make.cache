@@ -1,0 +1,2 @@
+LIO-SAM
+-DCATKIN_DEVEL_PREFIX=/home/yash/leo_ws/devel -DCMAKE_INSTALL_PREFIX=/home/yash/leo_ws/install -G Unix Makefiles
